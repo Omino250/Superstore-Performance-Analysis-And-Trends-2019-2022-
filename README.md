@@ -4,10 +4,15 @@
 
 The Superstore operates across multiple regions in the United States, selling **Technology, Furniture, and Office Supplies** to different customer segments. While the business generated millions in revenue, decision-makers lacked a clear, centralized view of performance.
 Key questions remained unanswered:
+
 •	Which product categories actually drive revenue and profit?
+
 •	Which customer segments contribute the most value?
+
 •	How sales trend across time, regions, and shipping modes?
+
 •	Where operational inefficiencies reduce profitability?
+
 To address this, I built an **end-to-end Excel analytics solution**, transforming raw transactional data into a structured **EDA workbook** and a fully **interactive dashboard**.
 This project covers the complete analytics workflow, from data cleaning to exploratory analysis and dashboard design, delivering actionable business insights in a single view.
 ________________________________________
