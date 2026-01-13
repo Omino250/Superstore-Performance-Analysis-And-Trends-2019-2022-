@@ -93,10 +93,11 @@ ________________________________________
 
 ### Sales by Product Category
 
-**Category**,**Sales**,**% of Total**
-Technology,"$839,898.28",36.1%
-Furniture,"$754,748.76",32.4%
-Office Supplies,"$731,893.31",31.5%
+| **Category** | **Sales** | **% of Total** |
+| :--- | :--- | :--- |
+| Technology | $839,898.28 | 36.1% |
+| Furniture | $754,748.76 | 32.4% |
+| Office Supplies | $731,893.31 | 31.5% |
 ,,
 **Insight:**
 Technology is the top revenue driver, contributing over one-third of total sales.
