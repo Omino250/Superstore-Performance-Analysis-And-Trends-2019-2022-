@@ -98,8 +98,8 @@ ________________________________________
 | Technology | $839,898.28 | 36.1% |
 | Furniture | $754,748.76 | 32.4% |
 | Office Supplies | $731,893.31 | 31.5% |
-,,
-**Insight:**
+
+[cite_start]**Insight:**]
 Technology is the top revenue driver, contributing over one-third of total sales.
 •  Best-selling products by revenue:
 o	Chairs: **~$335,768.25**
