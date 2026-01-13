@@ -22,9 +22,13 @@ ________________________________________
 The Superstore dataset contained **10,194 transaction records** with mixed formats, unstructured fields, and no ready-to-use analytical structure.
 Challenges included:
 •	No clear KPIs to track overall performance
+
 •	Difficulties comparing sales across categories, regions, and years
+
 •	Limited visibility into customer behavior and shipping efficiency
+
 •	No centralized view for leadership decision-making
+
 Without analysis, performance optimization was largely guesswork.
 ________________________________________
 
@@ -32,35 +36,57 @@ ________________________________________
 
 The objective of this project was to:
 •	Clean and structure raw Superstore sales data
+
 •	Perform Exploratory Data Analysis (EDA) using pivot tables
+
 •	Identify key sales, customer, product, and shipping insights
+
 •	Design an interactive Excel dashboard that tracks:
+
 o	Sales and profit performance
+
 o	Customer segmentation
+
 o	Regional and time-based trends
+
 o	Product demand and shipping behavior
+
 ________________________________________
 
 ## Data Preparation & EDA
 
 ### Dataset Overview
 •	Records: **10,194 orders**
+
 •	Time period: **2019–2022**
+
 •	Key fields:
+
 o	Order Date, Ship Date
+
 o	Category, Sub-Category, Product
+
 o	Customer Segment
+
 o	Region and City
+
 o	Sales, Profit
+
 
 ### Cleaning & Preparation Steps
 
 •	Standardized date formats
+
 •	Verified numerical fields (Sales, Profit)
+
 •	Removed inconsistencies in categorical data
+
 •	Created calculated fields such as:
+
 o	**Ship Duration** (Ship Date − Order Date)
+
 •	Ensured 100 percent data consistency before analysis
+
 ________________________________________
 
 ## Methodology
@@ -68,24 +94,39 @@ ________________________________________
 ### Exploratory Data Analysis
 
 Using Excel pivot tables, I analyzed performance across:
+
 •	Product categories and sub-categories
+
 •	Customer segments
+
 •	Regions and cities
+
 •	Shipping modes and delivery duration
+
 •	Monthly and yearly sales trends
+
 The EDA workbook served as the analytical foundation for the final dashboard.
+
 ________________________________________
 
 ### Dashboard Development
 
 •	Designed a single-page **interactive Excel dashboard**
+
 •	Built KPI cards, bar charts, line charts, and donut charts
+
 •	Implemented slicers for:
+
 o	Month
+
 o	Product Category
+
 o	Customer Segment
+
 o	Region
+
 •	Ensured clean layout and executive-friendly design
+
 ________________________________________
 
 ## Dashboard & Key Insights
@@ -93,7 +134,9 @@ ________________________________________
 ### Overall Performance
 
 •	**Total Sales:** $2,326,534.35
+
 •	**Total Profit:** $292,296.81
+
 •	**Overall Profit Margin:** ~12.6 percent
 
 ### Sales by Product Category
@@ -104,16 +147,25 @@ ________________________________________
 | Furniture | $754,748.76 | 32.4% |
 | Office Supplies | $731,893.31 | 31.5% |
 
-[cite_start]**Insight:**]
+**Insight:**
 Technology is the top revenue driver, contributing over one-third of total sales.
+
 •  Best-selling products by revenue:
+
 o	Chairs: **~$335,768.25**
+
 o	Phones: **~$331,842.64**
+
 •  High-demand products by order volume:
+
 o	Binders **(~1,548 orders)**
+
 o	Paper **(~1,384 orders)**
+
 •  Worst-performing categories:
+
 o	Art **(~$27,659.01 revenue)**
+
 o	Supplies **(~$46,725.50 revenue)**
 
 ### Customer Segment Performance
@@ -130,9 +182,13 @@ ________________________________________
 ### Regional Performance
 
 •	**Best Region:** Western
+
 o	Sales: $739,813.61
+
 o	Contribution: ~32 percent of total sales
+
 •	Central and Southern regions underperform relative to market size.
+
 ________________________________________
 
 ### Sales Trends (2019–2022)
@@ -144,10 +200,15 @@ ________________________________________
 2022,"$745,567.53"
 ,
 **Insights:**
+
 •	Sales declined by ~4 percent in 2020.This was due to the COVID-19 Pandemic.
-•	Strong recovery in 2021 (+30 percent YoY)
-•	Continued growth in 2022 (+21 percent YoY)
-•	Overall growth from 2019 to 2022: **~51 percent**
+
+•	Strong recovery in 2021 (+30 percent YoY).
+
+•	Continued growth in 2022 (+21 percent YoY).
+
+•	Overall growth from 2019 to 2022: **~51 percent**.
+
 ________________________________________
 
 ### Shipping Performance
@@ -159,49 +220,76 @@ ________________________________________
 ### Top Cities by Sales
 
 1.	New York City – $256,368.16 (11 percent of total sales)
-2.	Los Angeles – $175,851.34
-3.	Seattle – $119,540.74
-4.	San Francisco – $112,669.09
-5.	Philadelphia – $109,077.01
+2.	
+3.	Los Angeles – $175,851.34
+4.	
+5.	Seattle – $119,540.74
+6.	
+7.	San Francisco – $112,669.09
+8.	
+9.	Philadelphia – $109,077.01
+10.	
 ________________________________________
 
 ### Seasonality
 
 •	Peak Month: November
+
 •	Strong sales concentration toward year-end
+
 •	Lower activity observed in early-year months
+
 ________________________________________
 
 ## Key KPIs Displayed
 
 •	Total Sales
+
 •	Total Profit
+
 •	Best Region
+
 •	Top City
+
 •	Top Product Category
+
 •	Top Shipping Mode
+
 •	Peak Sales Period
 ________________________________________
 
 ## Conclusion
 
 •	The Superstore shows **strong revenue growth**, especially post-2020, but profitability remains modest at ~12.6 percent.
+
 •	Technology products and Consumer customers are the primary growth engines.
+
 •	Sales are concentrated in the Western region and a few key cities, exposing regional concentration risk.
+
 •	Heavy reliance on Standard Class shipping improves volume but impacts delivery speed.
+
 •	Clear seasonality suggests opportunities for better inventory and campaign planning.
+
 ________________________________________
 
 ## Recommendations
 
 •	Expand **Technology product** offerings, especially Phones and Computer Accessories.
+
 •	Increase inventory for high-demand products (Binders, Papers, Furnishing) to maintain fulfillment efficiency.
+
 •	Strengthen retention strategies for **Consumer customers**.
+
 •	Expand targeted marketing in underperforming regions.
+
 •	Optimize shipping logistics to reduce Standard Class delivery time.
+
 •	Launch early campaigns ahead of **November peak sales period**.
+
 •	Use city-level insights to prioritize inventory allocation.
+
 •	 Reduce Discounts in Loss-Making States.
+
 •	Protect & Invest in High-Value States.
 
 ________________________________________
@@ -209,9 +297,13 @@ ________________________________________
 ## Tools Used
 
 •	Microsoft Excel
+
 o	Data Cleaning
+
 o	Pivot Tables
+
 o	KPI Cards
+
 o	Slicers & Charts
 
 
