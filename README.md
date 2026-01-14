@@ -43,13 +43,13 @@ The objective of this project was to:
 
 •	Design an interactive Excel dashboard that tracks:
 
-  o	Sales and profit performance
+   o	Sales and profit performance
 
-  o	Customer segmentation
+   o	Customer segmentation
 
-  o	Regional and time-based trends
+   o	Regional and time-based trends
 
-  o	Product demand and shipping behavior
+   o	Product demand and shipping behavior
 
 ________________________________________
 
@@ -62,15 +62,15 @@ ________________________________________
 
 •	Key fields:
 
-o	Order Date, Ship Date
+  o	Order Date, Ship Date
 
-o	Category, Sub-Category, Product
+  o	Category, Sub-Category, Product
 
-o	Customer Segment
+  o	Customer Segment
 
-o	Region and City
+  o	Region and City
 
-o	Sales, Profit
+  o	Sales, Profit
 
 
 ### Cleaning & Preparation Steps
@@ -83,7 +83,7 @@ o	Sales, Profit
 
 •	Created calculated fields such as:
 
-o	**Ship Duration** (Ship Date − Order Date)
+  o	**Ship Duration** (Ship Date − Order Date)
 
 •	Ensured 100 percent data consistency before analysis
 
@@ -117,13 +117,13 @@ ________________________________________
 
 •	Implemented slicers for:
 
-o	Month
+  o	Month
 
-o	Product Category
+  o	Product Category
 
-o	Customer Segment
+  o	Customer Segment
 
-o	Region
+  o	Region
 
 •	Ensured clean layout and executive-friendly design
 
@@ -147,35 +147,37 @@ ________________________________________
 | Furniture | $754,748.76 | 32.4% |
 | Office Supplies | $731,893.31 | 31.5% |
 
-**Insight:**
+#### Insight:
 Technology is the top revenue driver, contributing over one-third of total sales.
 
 •  Best-selling products by revenue:
 
-o	Chairs: **~$335,768.25**
+  o	Chairs: **~$335,768.25**
 
-o	Phones: **~$331,842.64**
+  o	Phones: **~$331,842.64**
 
 •  High-demand products by order volume:
 
-o	Binders **(~1,548 orders)**
+  o	Binders **(~1,548 orders)**
 
-o	Paper **(~1,384 orders)**
+  o	Paper **(~1,384 orders)**
 
 •  Worst-performing categories:
 
-o	Art **(~$27,659.01 revenue)**
+  o	Art **(~$27,659.01 revenue)**
 
-o	Supplies **(~$46,725.50 revenue)**
+  o	Supplies **(~$46,725.50 revenue)**
 
 ### Customer Segment Performance
+### Customer Segment Performance
 
-**Segment**,**Sales**,**% Contribution**
-Consumer,"$1,170,659.79",50%
-Corporate,"$715,806.13",31%
-Home Office,"$440,068.43",19%
-,,
-**Insight:**
+| Segment | Sales | % Contribution |
+| :--- | :--- | :--- |
+| Consumer | $1,170,659.79 | 50% |
+| Corporate | $715,806.13 | 31% |
+| Home Office | $440,068.43 | 19% |
+
+#### Insight:
 The business is heavily **B2C-driven**, with Consumer customers generating half of all revenue.
 ________________________________________
 
@@ -183,9 +185,9 @@ ________________________________________
 
 •	**Best Region:** Western
 
-o	Sales: $739,813.61
+  o	Sales: $739,813.61
 
-o	Contribution: ~32 percent of total sales
+  o	Contribution: ~32 percent of total sales
 
 •	Central and Southern regions underperform relative to market size.
 
@@ -193,14 +195,14 @@ ________________________________________
 
 ### Sales Trends (2019–2022)
 
-**Year**,**Sales**
-2019,"$494,040.21"
-2020,"$472,993.03"
-2021,"$613,933.58"
-2022,"$745,567.53"
-,
-**Insights:**
+| Year | Sales |
+| :--- | :--- |
+| 2019 | $494,040.21 |
+| 2020 | $472,993.03 |
+| 2021 | $613,933.58 |
+| 2022 | $745,567.53 |
 
+#### Insight:
 •	Sales declined by ~4 percent in 2020.This was due to the COVID-19 Pandemic.
 
 •	Strong recovery in 2021 (+30 percent YoY).
@@ -213,22 +215,22 @@ ________________________________________
 
 ### Shipping Performance
 
-**Insight:**
+#### Insight:
 Standard Class dominates with **60 percent** of all sales but has the longest delivery time.
 ________________________________________
 
 ### Top Cities by Sales
 
 1.	New York City – $256,368.16 (11 percent of total sales)
-2.	
-3.	Los Angeles – $175,851.34
-4.	
-5.	Seattle – $119,540.74
-6.	
-7.	San Francisco – $112,669.09
-8.	
-9.	Philadelphia – $109,077.01
-10.	
+	
+2.	Los Angeles – $175,851.34
+   
+3.	Seattle – $119,540.74
+	
+4.	San Francisco – $112,669.09
+	
+5.	Philadelphia – $109,077.01
+	
 ________________________________________
 
 ### Seasonality
@@ -298,13 +300,13 @@ ________________________________________
 
 •	Microsoft Excel
 
-o	Data Cleaning
+  o	Data Cleaning
 
-o	Pivot Tables
+  o	Pivot Tables
 
-o	KPI Cards
+  o	KPI Cards
 
-o	Slicers & Charts
+  o	Slicers & Charts
 
 
 
