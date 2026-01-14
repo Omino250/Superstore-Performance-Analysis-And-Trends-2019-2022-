@@ -180,7 +180,7 @@ Technology is the top revenue driver, contributing over one-third of total sales
 The business is heavily **B2C-driven**, with Consumer customers generating half of all revenue.
 ________________________________________
 
-### Regional Performance
+### 📍 Regional Performance
 
 •	**Best Region:** Western
 
@@ -218,7 +218,7 @@ ________________________________________
 Standard Class dominates with **60 percent** of all sales but has the longest delivery time.
 ________________________________________
 
-### Top Cities by Sales
+### 🏙️ Top Cities by Sales
 
 1.	New York City – $256,368.16 (11 percent of total sales)
 	
@@ -232,7 +232,7 @@ ________________________________________
 	
 ________________________________________
 
-### Seasonality
+### 📅 Seasonality
 
 •	Peak Month: November
 
@@ -242,7 +242,7 @@ ________________________________________
 
 ________________________________________
 
-## Key KPIs Displayed
+## 💎 Key KPIs Displayed
 
 •	Total Sales
 
