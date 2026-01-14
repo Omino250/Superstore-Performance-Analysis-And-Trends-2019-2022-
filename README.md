@@ -127,6 +127,9 @@ ________________________________________
 
 •	Ensured clean layout and executive-friendly design
 
+
+<img width="1321" height="553" alt="Superstore_copy" src="https://github.com/user-attachments/assets/b91d30fb-8774-4130-80bb-3a98156bce48" />
+
 ________________________________________
 
 ## 💡 Dashboard & Key Insights
