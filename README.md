@@ -43,13 +43,13 @@ The objective of this project was to:
 
 •	Design an interactive Excel dashboard that tracks:
 
-o	Sales and profit performance
+  o	Sales and profit performance
 
-o	Customer segmentation
+  o	Customer segmentation
 
-o	Regional and time-based trends
+  o	Regional and time-based trends
 
-o	Product demand and shipping behavior
+  o	Product demand and shipping behavior
 
 ________________________________________
 
