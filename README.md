@@ -1,6 +1,6 @@
-# Superstore Sales & Performance Report(2019–2022)
+# 📊 Superstore Sales & Performance Report(2019–2022)
 
-## Project Overview
+## 🎯 Project Overview
 
 The Superstore operates across multiple regions in the United States, selling **Technology, Furniture, and Office Supplies** to different customer segments. While the business generated millions in revenue, decision-makers lacked a clear, centralized view of performance.
 Key questions remained unanswered:
@@ -17,7 +17,7 @@ To address this, I built an **end-to-end Excel analytics solution**, transformin
 This project covers the complete analytics workflow, from data cleaning to exploratory analysis and dashboard design, delivering actionable business insights in a single view.
 ________________________________________
 
-## Business Challenge
+## ⚠️ Business Challenge
 
 The Superstore dataset contained **10,194 transaction records** with mixed formats, unstructured fields, and no ready-to-use analytical structure.
 Challenges included:
@@ -32,7 +32,7 @@ Challenges included:
 Without analysis, performance optimization was largely guesswork.
 ________________________________________
 
-## Project Objective
+## 📌 Project Objective
 
 The objective of this project was to:
 •	Clean and structure raw Superstore sales data
@@ -53,9 +53,9 @@ The objective of this project was to:
 
 ________________________________________
 
-## Data Preparation & EDA
+## 🏗️🔍 Data Preparation & EDA
 
-### Dataset Overview
+### 🗂️ Dataset Overview
 •	Records: **10,194 orders**
 
 •	Time period: **2019–2022**
@@ -73,7 +73,7 @@ ________________________________________
   o	Sales, Profit
 
 
-### Cleaning & Preparation Steps
+### 🧹 Cleaning & Preparation Steps
 
 •	Standardized date formats
 
@@ -89,9 +89,9 @@ ________________________________________
 
 ________________________________________
 
-## Methodology
+## 📝 Methodology
 
-### Exploratory Data Analysis
+### 🔍 Exploratory Data Analysis
 
 Using Excel pivot tables, I analyzed performance across:
 
@@ -109,7 +109,7 @@ The EDA workbook served as the analytical foundation for the final dashboard.
 
 ________________________________________
 
-### Dashboard Development
+### 🖥️ Dashboard Development
 
 •	Designed a single-page **interactive Excel dashboard**
 
@@ -129,7 +129,7 @@ ________________________________________
 
 ________________________________________
 
-## Dashboard & Key Insights
+## 💡 Dashboard & Key Insights
 
 ### Overall Performance
 
@@ -139,7 +139,7 @@ ________________________________________
 
 •	**Overall Profit Margin:** ~12.6 percent
 
-### Sales by Product Category
+### 📦 Sales by Product Category
 
 | **Category** | **Sales** | **% of Total** |
 | :--- | :--- | :--- |
@@ -168,8 +168,7 @@ Technology is the top revenue driver, contributing over one-third of total sales
 
   o	Supplies **(~$46,725.50 revenue)**
 
-### Customer Segment Performance
-### Customer Segment Performance
+### 👥 Customer Segment Performance
 
 | Segment | Sales | % Contribution |
 | :--- | :--- | :--- |
@@ -193,7 +192,7 @@ ________________________________________
 
 ________________________________________
 
-### Sales Trends (2019–2022)
+### 📈 Sales Trends (2019–2022)
 
 | Year | Sales |
 | :--- | :--- |
@@ -213,7 +212,7 @@ ________________________________________
 
 ________________________________________
 
-### Shipping Performance
+### 🚚 Shipping Performance
 
 #### Insight:
 Standard Class dominates with **60 percent** of all sales but has the longest delivery time.
@@ -260,7 +259,7 @@ ________________________________________
 •	Peak Sales Period
 ________________________________________
 
-## Conclusion
+## 🏁 Conclusion
 
 •	The Superstore shows **strong revenue growth**, especially post-2020, but profitability remains modest at ~12.6 percent.
 
@@ -274,7 +273,7 @@ ________________________________________
 
 ________________________________________
 
-## Recommendations
+## 🚀 Recommendations
 
 •	Expand **Technology product** offerings, especially Phones and Computer Accessories.
 
@@ -296,7 +295,7 @@ ________________________________________
 
 ________________________________________
 
-## Tools Used
+## 🛠️ Tools Used
 
 •	Microsoft Excel
 
